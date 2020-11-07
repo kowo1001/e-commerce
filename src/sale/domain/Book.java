@@ -36,7 +36,5 @@ public class Book {
 	public void setBook_price(int book_price) {
 		this.book_price = book_price;
 	}
-	public String toString() {
-		return "Book [bookname=" + book_name + ", book_publisher=" + book_publisher + ", book_price=" + book_price + "]";
-	}
+	
 }
